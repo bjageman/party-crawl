@@ -1,0 +1,3 @@
+rootProject.name = 'PartyCrawl'
+
+include ':app'

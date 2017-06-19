@@ -1,0 +1,20 @@
+{
+  "name": "partycrawlweb",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "16.0.0-alpha.12",
+    "react-native": "0.45.1",
+    "react-dom": "^15.6.1"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.7"
+  },
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "web": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
